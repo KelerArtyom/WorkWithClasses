@@ -1,0 +1,15 @@
+C:\Users\artem\source\repos\20.01_WorkWithClasses\20.01_WorkWithClasses\bin\Debug\net6.0\20.01_WorkWithClasses.exe
+C:\Users\artem\source\repos\20.01_WorkWithClasses\20.01_WorkWithClasses\bin\Debug\net6.0\20.01_WorkWithClasses.deps.json
+C:\Users\artem\source\repos\20.01_WorkWithClasses\20.01_WorkWithClasses\bin\Debug\net6.0\20.01_WorkWithClasses.runtimeconfig.json
+C:\Users\artem\source\repos\20.01_WorkWithClasses\20.01_WorkWithClasses\bin\Debug\net6.0\20.01_WorkWithClasses.dll
+C:\Users\artem\source\repos\20.01_WorkWithClasses\20.01_WorkWithClasses\bin\Debug\net6.0\20.01_WorkWithClasses.pdb
+C:\Users\artem\source\repos\20.01_WorkWithClasses\20.01_WorkWithClasses\obj\Debug\net6.0\20.01_WorkWithClasses.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\20.01_WorkWithClasses\20.01_WorkWithClasses\obj\Debug\net6.0\20.01_WorkWithClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\20.01_WorkWithClasses\20.01_WorkWithClasses\obj\Debug\net6.0\20.01_WorkWithClasses.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\20.01_WorkWithClasses\20.01_WorkWithClasses\obj\Debug\net6.0\20.01_WorkWithClasses.AssemblyInfo.cs
+C:\Users\artem\source\repos\20.01_WorkWithClasses\20.01_WorkWithClasses\obj\Debug\net6.0\20.01_WorkWithClasses.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\20.01_WorkWithClasses\20.01_WorkWithClasses\obj\Debug\net6.0\20.01_WorkWithClasses.dll
+C:\Users\artem\source\repos\20.01_WorkWithClasses\20.01_WorkWithClasses\obj\Debug\net6.0\refint\20.01_WorkWithClasses.dll
+C:\Users\artem\source\repos\20.01_WorkWithClasses\20.01_WorkWithClasses\obj\Debug\net6.0\20.01_WorkWithClasses.pdb
+C:\Users\artem\source\repos\20.01_WorkWithClasses\20.01_WorkWithClasses\obj\Debug\net6.0\20.01_WorkWithClasses.genruntimeconfig.cache
+C:\Users\artem\source\repos\20.01_WorkWithClasses\20.01_WorkWithClasses\obj\Debug\net6.0\ref\20.01_WorkWithClasses.dll
